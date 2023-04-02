@@ -4,7 +4,6 @@ Created on March 5 9:56:44 2023
 @author: Amitabh Chakravorty
 """
 
-# GUI.py
 import pygame
 import time
 pygame.font.init()
