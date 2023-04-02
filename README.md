@@ -1,12 +1,12 @@
 Sudoku-Puzzle-and-Solver
 
-
 This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI.
 Run Sudoku Game.py to play sudoku.
 
 
 Instructions
 
-
-Click a box and hit the number on your keybaord to pencil in a number. To confirm that value press the ENTER key on that box. To delete a pencil in you can click DEL.
-Finally to solve the board press SPACE, sit back and watch the algorithm run.
+1. Click a box and hit the number on your keybaord to enter a number.
+2. To confirm that value press the ENTER key on that box. 
+3. To delete a pencil in you can click DEL.
+4. To solve the board press SPACE, sit back and watch the algorithm run.
