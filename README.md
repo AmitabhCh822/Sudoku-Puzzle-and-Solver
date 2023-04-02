@@ -1,6 +1,6 @@
 Sudoku-Puzzle-and-Solver
 
-This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI.
+This is a sudoku puzzle with an AI solver. The solver uses the backtracking algorithm. It includes a game UI.
 Run Sudoku Game.py to play sudoku.
 
 
